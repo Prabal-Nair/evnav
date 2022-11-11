@@ -10,7 +10,7 @@ class MyApp extends StatelessWidget {
     return const MaterialApp(
       title: "Flutter UI",
       debugShowCheckedModeBanner: false,
-      home: Text("Welcome to my World"),
+      home: Text("Welcome to my World, hahah"),
     );
   }
 }
